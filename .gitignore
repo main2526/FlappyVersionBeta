@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Tt]arget/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Aa]ssets/AssetStoreTools*
+[Pp]rojectSettings/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
